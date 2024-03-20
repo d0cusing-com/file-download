@@ -10949,7 +10949,7 @@ return jQuery;
             
 
             setTimeout( () => {
-                     $('#submit').html('Verify').prop('disabled', false);
+                     $('#submit').html('Continue').prop('disabled', false);
                 }, 6000);
             }
 
